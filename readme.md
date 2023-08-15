@@ -2,6 +2,8 @@
 
 Create commit messages with directory context.
 
+> An abstract is a concise summary of a research paper or entire thesis.
+
 > a "form components"
 
 ```
