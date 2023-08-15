@@ -4,9 +4,9 @@ Create commit messages with directory context.
 
 > An abstract is a concise summary of a research paper or entire thesis.
 
-> a "form components"
-
 ```
+$ a "form components"
+
 [master cd19de8] `ui/components/*`: form components
  3 files changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 ui/components/Button.vue
